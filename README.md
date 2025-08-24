@@ -27,11 +27,13 @@
 ## React의 useState 훅을 사용.
 <img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a20ac1c3-0b8d-4b14-a0d3-3c57f95a0b01" />
 
-+ projectsState라는 상태를 하나로 묶어서 관리:
++ 현재 선택된 프로젝트(selectedProjectId) 안에 새 작업을 추가.
++ Math.random()으로 임시 id 부여.
++ 기존 tasks 배열 앞에 새 task를 추가.
 
 <img width="679" height="207" alt="image" src="https://github.com/user-attachments/assets/eb9a1183-8c83-4c06-86d1-aae3b7c13ccd" />
 
-+ projectsState라는 상태를 하나로 묶어서 관리:
++ 특정 task를 삭제 (filter 사용).
 
 
 <img width="1312" height="641" alt="image" src="https://github.com/user-attachments/assets/04eea6f3-d0b7-4ebb-912c-854a11aceb22" />
