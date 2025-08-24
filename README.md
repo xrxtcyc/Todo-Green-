@@ -35,6 +35,12 @@
 
 + 특정 task를 삭제 (filter 사용).
 
+## Project 선택 관련 함수
+## Project 추가 모드/취소 함수
+## Project 추가 & 삭제 함수
+## 현재 선택된 프로젝트 가져오기
+## 최종 반환
+<img width="608" height="253" alt="image" src="https://github.com/user-attachments/assets/fc043bb4-dd7f-4faa-ac33-a4adcf1bde1c" />
 
 <img width="1312" height="641" alt="image" src="https://github.com/user-attachments/assets/04eea6f3-d0b7-4ebb-912c-854a11aceb22" />
 <img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/015f10eb-9a3e-4e8c-bfec-62a725a45d32" />
