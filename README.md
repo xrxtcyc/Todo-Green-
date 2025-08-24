@@ -16,18 +16,15 @@
 
 <img width="602" height="154" alt="image" src="https://github.com/user-attachments/assets/d2b67f3e-cfc0-4ea5-84eb-47fd0889611e" />
 
-+ 목록1
-  + 목록 1-1
-    + 목록 1-1-1
++ projectsState라는 상태를 하나로 묶어서 관리:
+  + selectedProjectId: 현재 선택된 프로젝트의 id
+   + undefined: 아무 프로젝트도 선택되지 않은 상태.
+   + null: 새 프로젝트 추가 모드.
+   + id값: 특정 프로젝트가 선택된 상태.
+  + projects: 프로젝트 목록 배열.
+  + tasks: 작업(Task) 목록 배열.
 
 
-* 목록1
-  * 목록 1-1
-    * 목록 1-1-1
-
-- 목록1
-  - 목록 1-1
-    - 목록 1-1-1
 projectsState라는 상태를 하나로 묶어서 관리:
 
 selectedProjectId: 현재 선택된 프로젝트의 id.
