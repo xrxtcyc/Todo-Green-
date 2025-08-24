@@ -37,6 +37,7 @@
 
 ## Project 선택 관련 함수
 <img width="506" height="211" alt="image" src="https://github.com/user-attachments/assets/f81eabc5-afb4-49f0-89be-c2245bba6986" />
+
 + 사이드바에서 프로젝트를 선택했을 때 호출.
 + selectedProjectId를 해당 id로 바꿈.
 
