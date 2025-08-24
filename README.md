@@ -52,6 +52,17 @@
 + 프로젝트 추가 취소 → 다시 아무것도 선택되지 않은 상태로 변경.
 
 ## Project 추가 & 삭제 함수
+<img width="548" height="375" alt="image" src="https://github.com/user-attachments/assets/6c258fc5-6bf6-4386-aff0-26429272b7e0" />
+
++ 새 프로젝트를 생성.
++ 전달받은 projectData에 id 추가 후 projects 배열에 넣음.
++ 완료 후에는 selectedProjectId를 undefined로 돌려서 기본 화면으로.
+
+<img width="645" height="279" alt="image" src="https://github.com/user-attachments/assets/c0701763-fee9-45de-b32c-021ccf40a8b3" />
+
++ 선택된 프로젝트를 삭제.
++ 삭제 후에는 선택 상태를 해제(undefined).
+
 ## 현재 선택된 프로젝트 가져오기
 <img width="661" height="90" alt="image" src="https://github.com/user-attachments/assets/39c4cb19-5c91-4a56-8645-7c0d9921d238" />
 
