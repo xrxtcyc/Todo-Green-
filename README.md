@@ -1,9 +1,8 @@
 # Todo-Green
 사용 기술: React , Tailwind Css
 <img width="1803" height="750" alt="image" src="https://github.com/user-attachments/assets/276d2d38-9ef5-47bb-b90a-06d5b5c4777d" />
-## React의 useState 훅을 사용.
 
-컴포넌트를 여러 개 가져옴:
+**컴포넌트를 여러 개 가져옴:**
 
 **1. ProjectsSidebar : 왼쪽에 프로젝트 목록을 보여주고 선택할 수 있는 사이드바.**
 
@@ -12,6 +11,8 @@
 **3. NoProjectSelected: 프로젝트가 선택되지 않았을 때 보이는 화면.**
 
 **4. SelectedProject : 선택된 프로젝트 상세 화면(삭제, 할 일 추가/삭제 포함).**
+
+## React의 useState 훅을 사용.
 
 <img width="602" height="154" alt="image" src="https://github.com/user-attachments/assets/d2b67f3e-cfc0-4ea5-84eb-47fd0889611e" />
 
