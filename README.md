@@ -5,13 +5,13 @@
 
 컴포넌트를 여러 개 가져옴:
 
-**ProjectsSidebar : 왼쪽에 프로젝트 목록을 보여주고 선택할 수 있는 사이드바.**
+**1. ProjectsSidebar : 왼쪽에 프로젝트 목록을 보여주고 선택할 수 있는 사이드바.**
 
-**NewProject : 새로운 프로젝트 생성 폼.**
+**2. NewProject : 새로운 프로젝트 생성 폼.**
 
-**NoProjectSelected: 프로젝트가 선택되지 않았을 때 보이는 화면.**
+**3. NoProjectSelected: 프로젝트가 선택되지 않았을 때 보이는 화면.**
 
-**SelectedProject : 선택된 프로젝트 상세 화면(삭제, 할 일 추가/삭제 포함).**
+**4. SelectedProject : 선택된 프로젝트 상세 화면(삭제, 할 일 추가/삭제 포함).**
 
 <img width="602" height="154" alt="image" src="https://github.com/user-attachments/assets/d2b67f3e-cfc0-4ea5-84eb-47fd0889611e" />
 
