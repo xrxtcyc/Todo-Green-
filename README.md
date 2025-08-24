@@ -15,6 +15,7 @@
 ## React의 useState 훅을 사용.
 
 <img width="602" height="154" alt="image" src="https://github.com/user-attachments/assets/d2b67f3e-cfc0-4ea5-84eb-47fd0889611e" />
+<img width="679" height="207" alt="image" src="https://github.com/user-attachments/assets/eb9a1183-8c83-4c06-86d1-aae3b7c13ccd" />
 
 + projectsState라는 상태를 하나로 묶어서 관리:
   + selectedProjectId: 현재 선택된 프로젝트의 id
@@ -24,6 +25,7 @@
   + projects: 프로젝트 목록 배열.
   + tasks: 작업(Task) 목록 배열.
 
+<img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a20ac1c3-0b8d-4b14-a0d3-3c57f95a0b01" />
 
 
 <img width="1312" height="641" alt="image" src="https://github.com/user-attachments/assets/04eea6f3-d0b7-4ebb-912c-854a11aceb22" />
