@@ -55,8 +55,8 @@
 ## 현재 선택된 프로젝트 가져오기
 <img width="661" height="90" alt="image" src="https://github.com/user-attachments/assets/39c4cb19-5c91-4a56-8645-7c0d9921d238" />
 
-+ 프로젝트 추가 취소 → 다시 아무것도 선택되지 않은 상태로 변경.
-+ 프로젝트 추가 취소 → 다시 아무것도 선택되지 않은 상태로 변경.
++ 현재 선택된 프로젝트 객체를 찾음.
++ 선택된 id가 없거나 존재하지 않으면 undefined.
 
 ## 최종 반환
 <img width="608" height="253" alt="image" src="https://github.com/user-attachments/assets/fc043bb4-dd7f-4faa-ac33-a4adcf1bde1c" />
