@@ -37,6 +37,14 @@
 
 ## Project 선택 관련 함수
 ## Project 추가 모드/취소 함수
+<img width="418" height="207" alt="image" src="https://github.com/user-attachments/assets/dafca70a-9529-44e8-9f69-cd1ec2244b2b" />
++ 프로젝트 추가 버튼을 눌렀을 때 실행.
++ selectedProjectId를 null로 바꿔서 "새 프로젝트 폼"을 보여주게 함.
+
+<img width="412" height="213" alt="image" src="https://github.com/user-attachments/assets/7865551c-3a9f-41b0-b213-a8d10043490b" />
+
++ 프로젝트 추가 취소 → 다시 아무것도 선택되지 않은 상태로 변경.
+
 ## Project 추가 & 삭제 함수
 ## 현재 선택된 프로젝트 가져오기
 ## 최종 반환
