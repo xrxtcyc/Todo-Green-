@@ -13,8 +13,8 @@ NoProjectSelected: 프로젝트가 선택되지 않았을 때 보이는 화면.
 
 SelectedProject: 선택된 프로젝트 상세 화면(삭제, 할 일 추가/삭제 포함).
 
-
-const [projectsState, setProjectsState] = useState({
+function App() {
+  const [projectsState, setProjectsState] = useState({
     selectedProjectId: undefined,
     projects: [],
     tasks: [],
