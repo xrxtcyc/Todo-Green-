@@ -26,9 +26,11 @@
 
 ## React의 useState 훅을 사용.
 <img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a20ac1c3-0b8d-4b14-a0d3-3c57f95a0b01" />
+
 + projectsState라는 상태를 하나로 묶어서 관리:
 
 <img width="679" height="207" alt="image" src="https://github.com/user-attachments/assets/eb9a1183-8c83-4c06-86d1-aae3b7c13ccd" />
+
 + projectsState라는 상태를 하나로 묶어서 관리:
 
 
