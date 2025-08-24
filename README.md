@@ -25,6 +25,9 @@
   + projects: 프로젝트 목록 배열.
   + tasks: 작업(Task) 목록 배열.
 
+## React의 useState 훅을 사용.
+
+
 <img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a20ac1c3-0b8d-4b14-a0d3-3c57f95a0b01" />
 
 
