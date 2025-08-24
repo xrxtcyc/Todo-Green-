@@ -69,6 +69,15 @@
 + 현재 선택된 프로젝트 객체를 찾음.
 + 선택된 id가 없거나 존재하지 않으면 undefined.
 
+## 조건부 렌더링
+<img width="389" height="225" alt="image" src="https://github.com/user-attachments/assets/fb7d1f9a-5015-4132-9843-501a85dd8431" />
++ 기본 화면은 "선택된 프로젝트 상세 화면".
+
+<img width="772" height="195" alt="image" src="https://github.com/user-attachments/assets/06c436df-9d78-4a68-aeb6-618f59cca837" />
+
++ null: 새 프로젝트 추가 폼 보여줌.
++ undefined: "프로젝트가 선택되지 않았습니다" 화면 보여줌.
+
 ## 최종 반환
 <img width="608" height="253" alt="image" src="https://github.com/user-attachments/assets/fc043bb4-dd7f-4faa-ac33-a4adcf1bde1c" />
 
