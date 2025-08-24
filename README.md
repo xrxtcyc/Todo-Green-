@@ -53,6 +53,7 @@
 + 프로젝트 추가 취소 → 다시 아무것도 선택되지 않은 상태로 변경.
 
 ## Project 추가 & 삭제 함수
+<img width="1182" height="672" alt="image" src="https://github.com/user-attachments/assets/16beae2f-3df4-48c0-9544-fa41931962a6" />
 <img width="548" height="375" alt="image" src="https://github.com/user-attachments/assets/6c258fc5-6bf6-4386-aff0-26429272b7e0" />
 
 + 새 프로젝트를 생성.
