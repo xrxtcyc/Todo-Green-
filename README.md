@@ -13,12 +13,8 @@
 
 **SelectedProject**: 선택된 프로젝트 상세 화면(삭제, 할 일 추가/삭제 포함).
 
-function App() {
-  const [projectsState, setProjectsState] = useState({
-    selectedProjectId: undefined,
-    projects: [],
-    tasks: [],
-  });
+<img width="602" height="154" alt="image" src="https://github.com/user-attachments/assets/d2b67f3e-cfc0-4ea5-84eb-47fd0889611e" />
+
 projectsState라는 상태를 하나로 묶어서 관리:
 
 selectedProjectId: 현재 선택된 프로젝트의 id.
