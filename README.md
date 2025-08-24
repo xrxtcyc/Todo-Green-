@@ -73,6 +73,7 @@
 
 ## 조건부 렌더링
 <img width="389" height="225" alt="image" src="https://github.com/user-attachments/assets/fb7d1f9a-5015-4132-9843-501a85dd8431" />
+<img width="608" height="253" alt="image" src="https://github.com/user-attachments/assets/fc043bb4-dd7f-4faa-ac33-a4adcf1bde1c" />
 
 + 기본 화면은 "선택된 프로젝트 상세 화면".
 
