@@ -25,6 +25,7 @@
   + tasks: 작업(Task) 목록 배열.
 
 ## Task 관련 함수
+<img width="1182" height="672" alt="image" src="https://github.com/user-attachments/assets/16beae2f-3df4-48c0-9544-fa41931962a6" />
 <img width="508" height="363" alt="image" src="https://github.com/user-attachments/assets/a20ac1c3-0b8d-4b14-a0d3-3c57f95a0b01" />
 
 + 현재 선택된 프로젝트(selectedProjectId) 안에 새 작업을 추가.
